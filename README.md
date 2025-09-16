@@ -20,9 +20,9 @@ ESP Red (Offensive): Wi-Fi pentesting toolkit (DoS, fake APs, WPS attack simulat
 
 ESP Blue (Defensive): Wi-Fi monitoring and attack detection with real-time logging.
 
-☁️Cloud & ERP Systems
+☁️Cloud Security
 
-Cloud-native ERP architecture deployed on AWS and Linode.
+Cloud-native ubuntu setup and ufw setup on Linode.
 
 Focus on cloud security fundamentals: IAM, access control, and secure storage.
 
