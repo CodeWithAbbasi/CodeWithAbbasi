@@ -29,7 +29,7 @@ Focus on cloud security fundamentals: IAM, access control, and secure storage.
 Hands-on learning with Linode cloud services for deployment and security hardening.
 
 *   🌍  I'm based in Pakistan
-*   ✉️  You can contact me at [anasmazhar010@gmail.com](mailto:anasmazhar010@gmail.com)
+*   ✉️  You can contact me at [anasmazharabbasi@gmail.com](mailto:anasmazharabbasi@gmail.com)
 *   👥  I'm looking to collaborate on Open-source cybersecurity tools and Wi-Fi security research AI/ML projects (TinyML, Wi-Fi Vision, agentic AI for cyber defense) Cloud security and ERP systems (AWS, Linode) Capture-the-flag (CTF) challenges, pentesting labs, and red/blue team projects
 *   💬  Ask me about how to blend cybersecurity, IoT, and AI into practical research.
 <p align="left">
