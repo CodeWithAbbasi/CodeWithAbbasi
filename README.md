@@ -6,12 +6,6 @@ Welcome to my project repository! This repo is a collection of my research, expe
 
 🛡️Cybersecurity & Pentesting
 
-Full MITRE ATT&CK and Cyber Kill Chain simulations on vulnerable lab environments.
-
-Penetration testing walkthroughs on targets like Gravemind, DVWA, Juice Shop, Mutillidae, and WebGoat.
-
-Development of ESP Red and ESP Blue – ESP32-based Wi-Fi offensive and defensive tools.
-
 📡IoT & Wi-Fi Security
 
 ESP32 Wi-Fi Sniffer: promiscuous mode packet capture.
