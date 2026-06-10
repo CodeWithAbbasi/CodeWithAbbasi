@@ -1,42 +1,109 @@
-Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anas\_Abbasi
-=====================================================================================================================================
+<h1 align="center">Hey, I'm Anas Mazhar Abbasi 👋</h1>
 
-Welcome to my project repository! This repo is a collection of my research, experiments, and implementations across cybersecurity, IoT, and AI/ML.
---------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <a href="https://www.linkedin.com/in/anasmazharabbasi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anas@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-🛡️Cybersecurity & Pentesting
+---
 
-📡IoT & Wi-Fi Security
+### 🛡️ About Me
 
-ESP32 Wi-Fi Sniffer: promiscuous mode packet capture.
+**Cybersecurity & AI/ML Engineer** based in Islamabad, Pakistan.
 
-ESP Red (Offensive): Wi-Fi pentesting toolkit (DoS, fake APs, WPS attack simulation).
+I build things at the intersection of security and AI — from ESP32 wireless tools to RAG-powered AI assistants. Currently working on my Final Year Project: **AI-powered wireless attack detection** using ESP32-C3 + Decision Trees.
 
-ESP Blue (Defensive): Wi-Fi monitoring and attack detection with real-time logging.
+```python
+class Anas:
+    def __init__(self):
+        self.role = "Cybersecurity & AI/ML Engineer"
+        self.location = "Islamabad, Pakistan"
+        self.interests = [
+            "Wireless Security",
+            "AI/ML Systems",
+            "Embedded Systems",
+            "Red/Blue Team",
+            "RAG & LLM Apps"
+        ]
+        self.currently_building = "AI WiFi Attack Detection (FYP)"
+    
+    def say_hi(self):
+        print("Hey! I build & break things. Always learning.")
 
-☁️Cloud Security
+me = Anas()
+me.say_hi()
+```
 
-Cloud-native ubuntu setup and ufw setup on Linode.
+---
 
-Focus on cloud security fundamentals: IAM, access control, and secure storage.
+### 🚀 Featured Projects
 
-Hands-on learning with Linode cloud services for deployment and security hardening.
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Project-3-RAG](https://github.com/CodeWithAbbasi/Project-3-RAG)** | AI Company Assistant with RAG pipeline, ChromaDB semantic search, Streamlit UI | Python, LangChain, ChromaDB, Streamlit |
+| **[Project-2-OCR](https://github.com/CodeWithAbbasi/Project-2-OCR)** | Document AI — OCR, CNN, NER, Classification API | Python, FastAPI, Tesseract, spaCy |
+| **[Project-1-Churn](https://github.com/CodeWithAbbasi/Project-1-Churn)** | Customer Churn Prediction — EDA, ML, Optimization, Deployment | Python, scikit-learn, pandas |
+| **[ESP32-Projects](https://github.com/CodeWithAbbasi/ESP32-Projects)** | Wireless security tools — Wi-Fi sniffer, brute force, IDF dev | C, ESP32, ESP-IDF |
 
-*   🌍  I'm based in Pakistan
-*   ✉️  You can contact me at [anasmazharabbasi@gmail.com](mailto:anasmazharabbasi@gmail.com)
-*   👥  I'm looking to collaborate on Open-source cybersecurity tools and Wi-Fi security research AI/ML projects (TinyML, Wi-Fi Vision, agentic AI for cyber defense) Cloud security and ERP systems (AWS, Linode) Capture-the-flag (CTF) challenges, pentesting labs, and red/blue team projects
-*   💬  Ask me about how to blend cybersecurity, IoT, and AI into practical research.
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-                  </p>
-                  
+---
 
-              
+### 🛠️ Tech Stack
 
-### Badges
+**Languages:** Python • C/C++ • JavaScript • Bash
 
-<b>My GitHub Stats</b>
+**Security:** Penetration Testing • Wi-Fi Security • Network Analysis • ESP32 Red/Blue Team
 
-<a href="http://www.github.com/CodeWithAbbasi"><img src="https://github-readme-stats.vercel.app/api?username=CodeWithAbbasi&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CodeWithAbbasi's GitHub stats" /></a>
+**AI/ML:** LangChain • ChromaDB • scikit-learn • TensorFlow • RAG Systems • LLM Apps
 
-<a href="https://github.com/CodeWithAbbasi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAbbasi&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Tools:** Streamlit • FastAPI • n8n • Docker • Git • Linux
+
+**Embedded:** ESP32 • ESP32-C3 • Arduino • PCB Design
+
+---
+
+### 📜 Certifications
+
+- **Cybersecurity** — Cisco (Apr 2025)
+- **Penetration Testing** — Udemy (Apr 2025)
+- **PCB Design** — Embedded Edge Academy (Feb 2025)
+- **Computer Networking** — Ezxprt (Jun 2025)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAbbasi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithAbbasi&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💬 What People Say
+
+> *"Anas is a super star — he has a real positive attitude to his work and is up for taking up any task given to him. He thinks creatively about solving problems and is the go-to team member when it comes to execution. Highly recommended."*
+> — **Amir Anzur**
+
+> *"Anas is an excellent team member. He's a fast learner and works dedicatedly. Anas completes his work on time with his full potential using his skill set."*
+> — **Saad Marwat**
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.instagram.com/anasmazharabbasi/)
+- 🐦 [Twitter](https://twitter.com/CodeWithAbbasi)
+- 📧 Reach out for collaborations, security research, or just to say hi!
+
+---
+
+<p align="center">
+  <i>⚡ "If you're the dumbest person in the room, you're probably in the right room." ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWithAbbasi&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
