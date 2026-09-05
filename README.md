@@ -16,7 +16,7 @@ I build things at the intersection of security and AI — from ESP32 wireless to
 ```python
 class Anas:
     def __init__(self):
-        self.role = "Cybersecurity & AI/ML Engineer"
+        self.role = "Cybersecurity & AI Engineer"
         self.location = "Islamabad, Pakistan"
         self.interests = [
             "Wireless Security",
