@@ -20,7 +20,7 @@ class Anas:
         self.location = "Islamabad, Pakistan"
         self.interests = [
             "Wireless Security",
-            "AI/ML Systems",
+            "AI Systems",
             "Embedded Systems",
             "Red/Blue Team",
             "RAG & LLM Apps"
